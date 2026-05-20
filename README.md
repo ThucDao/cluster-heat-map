@@ -46,10 +46,9 @@ Here is how I feel the temperature in 9 maps (remember that in fact, all maps sh
 From my experience of living in Sudbury, I think no maps reflect the real temperature here. If I have to choose, the closest representation of Sudbury’s temperature is the second map (rainbow palette), although it should depict a much colder winter.
  
 Note: 
-- A large space between August and September 2020 is due to missing data from 8 am on Aug 25 to 12 pm on Sep 4.    
+- A large space between August and September 2020 is due to missing data from 8 am Aug 25 to 12 pm Sep 4.    
   Probably the weather station in Sudbury experienced some technical issues at that time.
-- You may also notice that months are separated by spaces whose width varies by the number of days in the previous month.   
-  Thus, you will see:
+- You may also notice that months are separated by spaces whose width varies by the number of days in the previous month. Thus, you will see:
   - The smallest gap after Jan, Mar, May, Jul, Aug, Oct (31 days)
   - A medium gap after Apr, Jun, Sep, Nov (30 days)
   - A big gap after Feb in a leap year (29 days)
